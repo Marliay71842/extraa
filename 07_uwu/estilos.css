@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+ background: grey;
+}
+#texto{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px
+}
+div{
+  width: 400px;
+  height: 500px;
+  background: rgb(210, 237, 253);
+  border-radius:10px;
+  border: black 2px solid;
+}
